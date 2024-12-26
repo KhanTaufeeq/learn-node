@@ -3,4 +3,5 @@
 // __filename - file name
 // require - function to use modules (CommonJS)
 // module - info about current module (file)
-// process - info about env whwere the program is being executed
+// process - info about env whwere the program is being executed 
+
